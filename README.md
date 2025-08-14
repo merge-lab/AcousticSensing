@@ -22,6 +22,7 @@ Example output:
 ```
 ## Python Code
 Runs on Python 3.13
+
 Dependencies:
 - matplotlib
 - numpy
